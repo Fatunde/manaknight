@@ -843,6 +843,9 @@ input::-ms-input-placeholder {
   width: -moz-max-content;
   padding-bottom: 4px;
   border-bottom: 1px solid black;
+  margin-top: -15%;
+  margin-left: 20%;
+  text-align: center !important;
 }
 #page4 .customImgRow img {
   width: 335px;
